@@ -8,7 +8,9 @@ public class Learn2 {
             System.out.println("Good");
         else if (20<100){
             System.out.println("Not Good");
+            System.out.println("TEST");
         }
 
     }
+
 }
