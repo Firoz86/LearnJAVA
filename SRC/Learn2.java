@@ -6,7 +6,7 @@ public class Learn2 {
 
         if(10<9)
             System.out.println("Good");
-        else {
+        else if (20<100){
             System.out.println("Not Good");
         }
 
