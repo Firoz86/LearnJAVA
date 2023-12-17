@@ -5,6 +5,9 @@ public class Alpha {
         String fname = "Firoz";
         String lname = "Shaikh";
         System.out.println(fname + " " + lname);
+        int a = 55;
+        int b = 9;
+        System.out.println(a+b+lname);
 
     }
 }
