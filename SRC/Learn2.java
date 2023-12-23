@@ -9,6 +9,7 @@ public class Learn2 {
         else if (20<100){
             System.out.println("Not Good");
             System.out.println("TEST");
+            System.out.println("PRAMOD");
         }
 
     }
